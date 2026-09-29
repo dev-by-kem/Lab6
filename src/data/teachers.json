@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "John Aimiel Pena",
+        "spec": "Programming",
+        "dept": "DIT",
+        "sex": "Male"
+    },
+    {
+        "id": 2,
+        "name": "Franchette Strawberry",
+        "spec": "PERL",
+        "dept": "DIT",
+        "sex": "Female"
+    },
+    {
+        "id": 3,
+        "name": "Dan Joseph Ortega",
+        "spec": "Programming",
+        "dept": "DIT",
+        "sex": "Male"
+    }
+]
